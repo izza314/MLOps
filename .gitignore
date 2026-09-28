@@ -1,0 +1,20 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# DVC cache and temporary files
+.dvc/cache/
+.dvc/tmp/
+
+# Model files (tracked through DVC)
+*.h5
+
+# Credentials
+token.json
+credentials.json
+.dvc/config.local
