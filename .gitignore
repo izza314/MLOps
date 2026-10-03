@@ -17,4 +17,4 @@ __pycache__/
 # Credentials
 token.json
 credentials.json
-.dvc/config.local
+.dvc/config.localclient_secret_*.json
