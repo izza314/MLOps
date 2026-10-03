@@ -18,3 +18,7 @@ __pycache__/
 token.json
 credentials.json
 .dvc/config.localclient_secret_*.json
+/confusion_matrix.png
+/metrics.json
+data/raw/
+models/history.csv
