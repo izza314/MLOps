@@ -14,3 +14,5 @@ A fully-connected Artificial Neural Network (ANN) for classifying Fashion-MNIST 
 - Google Drive
 - Scikit-learn
 - Matplotlib
+
+Temporary fix
